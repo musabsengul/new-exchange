@@ -9,6 +9,3 @@ const data = {
         Ebrar:32,
 }
 
-
-data.Ebrar
-data.Davut
