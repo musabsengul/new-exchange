@@ -106,8 +106,3 @@ function App() {
 export default App;
 
 
-// // bu url de base to selects
-// let url = "http://api.exchangeratesapi.io/v1/latest?access_key=cca414571952d791fd6bd85ec9d20aee&format=1"
-//
-// // USD_TRY -> 1 USD kaç TRY (EUR_TRY -> 1 EUR kaç TRY)
-// let url2 = "https://free.currconv.com/api/v7/convert?q=USD_TRY&compact=ultra&apiKey=9d451b8387efce59b195"
